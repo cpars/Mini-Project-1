@@ -16,6 +16,10 @@ nav{
 
 footer {
     background-color: #2a607c;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 15px;
+
 }
 
 .header {
@@ -63,8 +67,15 @@ h3{
     display: inline-block;
 }
 
-form {
+.form {
     display: block;
+    border: solid;
+    border-color:#2a607c;
+    border-radius: 15px;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    
 }
 
 #input-box {

@@ -5,6 +5,8 @@
 }
 header{
     background-color: #2a607c;
+    position:fixed;
+    width:100%;
     
 }
 nav{
